@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jenelle @jenem66
+- 👋 Hi, I’m Jenelle
 - 👀 I’m interested in UI Design and Front-end Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on fun and creative projects
